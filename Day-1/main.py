@@ -22,3 +22,14 @@ print("New lines can be created with a backslash and n")
 
 
 print("----")
+
+# Line changing
+print("Hello world!\nHello World!")
+
+print("----")
+
+# Concatanation
+print("Hello" + " " + "World!")
+print("Hello " + "I " + "am " + "Aditya Raj.")
+
+print("----")
