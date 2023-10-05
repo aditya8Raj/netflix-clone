@@ -1,1 +1,1 @@
-# learning-python
+# In this repository, I am sharing my progress of learning Python.
