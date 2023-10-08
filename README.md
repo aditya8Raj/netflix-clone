@@ -3,5 +3,5 @@
 ---
 
 <h3>Day 1 : https://replit.com/@aditya7raj1/Day-1</h3>
-<br>
 <h3>Day 2 : https://replit.com/@aditya7raj1/day-2</h3>
+<h3>Day 3 : https://replit.com/@aditya7raj1/day-3</h3>
