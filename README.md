@@ -7,3 +7,4 @@
 <h3>Day 3 : https://replit.com/@aditya7raj1/day-3</h3>
 <h3>Day 4 : https://replit.com/@aditya7raj1/day-4</h3>
 <h3>Day 5 : https://replit.com/@aditya7raj1/day-5</h3>
+<h3>Day 6 : https://replit.com/@aditya7raj1/day-6</h3>
