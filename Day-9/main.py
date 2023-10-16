@@ -66,10 +66,22 @@ full_name = createName(first_name, last_name)
 print(f"You name is: {full_name}")
 
 # exception handling
+# exception = events detected during execution that interrupt the flow of a program
+
 try:
     numerator = int(input("Enter a number to divide: "))
     denominator = int(input("Enter a number to divide by: "))
     result = numerator / denominator
     print(result)
+except ZeroDivisionError:
+    print("You cant't divide by zero!")
+except ValueError:
+    print("Invalid! Enter only number.")
 except Exception:
     print("Something went wrong :(")
+
+# -------------------
+
+# read a file
+with open('C:\\Users\\Aditya Raj\\Downloads\\course\\Python\\code\\learning-python\\Day-9\\test.txt') as file:
+    print(file.read())
