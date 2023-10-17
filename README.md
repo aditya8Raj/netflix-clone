@@ -1,7 +1,8 @@
-# In this repository, I am sharing my progress of learning Python.
+# 100daysofcode 💪
 
 ---
 
+<h4>From day 1 to 10, I brushed up on python knowledge, I already knew many of its concepts so didn't spent much time on this. From Day 11, I will be starting something new.</h4>
 <h3>Day 1 : https://replit.com/@aditya7raj1/Day-1</h3>
 <h3>Day 2 : https://replit.com/@aditya7raj1/day-2</h3>
 <h3>Day 3 : https://replit.com/@aditya7raj1/day-3</h3>
