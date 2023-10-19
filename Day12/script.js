@@ -52,3 +52,69 @@ const myObj = {
 console.log(myObj);
 console.log(typeof myObj);
 console.log(myObj.email);
+
+// ********** Functions ***********
+
+function sayMyName() {
+  console.log("A");
+  console.log("D");
+  console.log("I");
+  console.log("T");
+  console.log("Y");
+  console.log("A");
+}
+
+sayMyName();
+
+// ****** functions with parameters & arguments ********
+
+function addTwoNumbers(num1, num2) {
+  const result = num1 + num2;
+  return result;
+}
+
+console.log(addTwoNumbers(5, 3));
+
+// ---------------
+
+if (true) {
+  let a = 10;
+  const b = 20;
+}
+
+// console.log(a);
+// console.log(b);
+// console.log(c);
+
+//********* this keyword **********/
+
+const user = {
+  username: "aditya",
+  price: 999,
+
+  welcomeMessage: function () {
+    console.log(`${this.username}, welcome to website`);
+  },
+};
+
+user.welcomeMessage();
+user.username = "ujjwal";
+user.welcomeMessage();
+
+// ********** arrow functions ***********
+const addTwo = (num1, num2) => {
+  return num1 + num2;
+};
+
+console.log(addTwo(3, 5));
+
+// ******* Immediately Invoked Function Expressions (IIFI) *******
+(function sayHello() {
+  console.log("Hello");
+})(); // Hello
+
+function sayHello() {
+  console.log("Hello");
+}
+
+sayHello(); // Hello
