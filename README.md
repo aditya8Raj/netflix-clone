@@ -2,7 +2,7 @@
 
 ---
 
-<h4>From day 1 to 10, I brushed up on python knowledge, I already knew many of its concepts so didn't spent much time on this. From Day 11, I will be starting something new.</h4>
+<h4>From day 1 to 10, I brushed up on python knowledge, I already knew many of its concepts so didn't spent much time on this. From Day 11, I started something JavaScript, I know most of its concepts too, so I will be quick with the basics.</h4>
 <h3>Day 1 : https://replit.com/@aditya7raj1/Day-1</h3>
 <h3>Day 2 : https://replit.com/@aditya7raj1/day-2</h3>
 <h3>Day 3 : https://replit.com/@aditya7raj1/day-3</h3>
@@ -15,3 +15,4 @@
 <h3>Day 10 : https://replit.com/@aditya7raj1/day-10</h3>
 <h3>Day 11 : https://replit.com/@aditya7raj1/day-11</h3>
 <h3>Day 12 : https://replit.com/@aditya7raj1/day-12</h3>
+<h3>Day 13 : https://replit.com/@aditya7raj1/day-13</h3>
