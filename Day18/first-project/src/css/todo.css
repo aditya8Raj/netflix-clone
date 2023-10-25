@@ -1,0 +1,62 @@
+.todo {
+  width: 80%; /* Adjusted width for responsiveness */
+  max-width: 600px; /* Added max-width to limit on larger screens */
+  min-height: 732px;
+  border-radius: 20px;
+  background-color: #fff;
+  margin: auto;
+  margin-top: 5%; /* Adjusted margin for responsiveness */
+  display: flex;
+  flex-direction: column;
+  padding: 0px 5%; /* Adjusted padding for responsiveness */
+  padding-bottom: 30px;
+  margin-bottom: 5%; /* Adjusted margin for responsiveness */
+}
+
+.todo-header {
+  margin-top: 10%; /* Adjusted margin for responsiveness */
+  color: #002765;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 34px;
+}
+
+.todo-add {
+  display: flex;
+  flex-direction: column; /* Adjusted flex direction for responsiveness */
+  justify-content: center;
+  align-items: center;
+  margin-top: 4%; /* Adjusted margin for responsiveness */
+  margin-bottom: 6%; /* Adjusted margin for responsiveness */
+}
+
+.todo-input {
+  border-radius: 50px;
+  background: #edeef0;
+  border: none;
+  outline: none;
+  width: 100%; /* Adjusted width for responsiveness */
+  max-width: 576px; /* Added max-width to limit on larger screens */
+  height: 80px;
+  padding-left: 5%; /* Adjusted padding for responsiveness */
+  font-size: 20px;
+  margin-bottom: 5%; /* Adjusted margin for responsiveness */
+}
+
+.todo-add-btn {
+  border-radius: 50px;
+  background: #ff6739;
+  width: 100%; /* Adjusted width for responsiveness */
+  max-width: 576px; /* Added max-width to limit on larger screens */
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%; /* Adjusted margin for responsiveness */
+  cursor: pointer;
+  color: #fff;
+  font-size: 26px;
+  font-weight: 600;
+}
+
+/* Add media queries for further adjustments based on screen size if needed */
