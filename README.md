@@ -20,3 +20,5 @@
 <h3>Day 15 : see "learning react" folder in Day 15 directory</h3>
 <h3>Day 16 : see "learning react" folder in Day 16 directory</h3>
 <h3>Day 17 : see "first project" folder in Day 17 directory</h3>
+<h3>Day 18 : made a Todo app. Check out [here](https://100daysofcode-todoapp.vercel.app/)</h3>
+<h3>Day 19 : made a calculator with plain HTML, CSS & JS. Check out [here](https://100daysofcode-calculator.netlify.app/)</h3>
